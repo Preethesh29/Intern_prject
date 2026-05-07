@@ -139,7 +139,7 @@ Inspired by platforms like:
 
 ## 👩‍💻 Author
 
-**Lahari R**
+**Preethesh  Kumar**
 
 ---
 
